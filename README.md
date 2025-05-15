@@ -1,5 +1,5 @@
 # AgriChain: Blockchain-Powered Agricultural Marketplace
-AgriChain is a decentralized agricultural marketplace that connects farmers directly with buyers through blockchain-verified transactions. The platform uses Solana blockchain for secure payments, QR code verification for product authenticity, and real-time notifications for transaction updates.
+AgriChain is a blockchain marketplace connecting farmers directly with buyers through secure Solana transactions. The platform uses USDC escrow payments that only release after product verification via cryptographically-signed QR codes. With separate portals for suppliers and buyers, real-time notifications, and transparent tracking, AgriChain ensures product authenticity while maximizing farmer profits and eliminating intermediaries.
 ## Key Features
 - **Dual Portal System**: Separate interfaces for suppliers (farmers) and buyers
 - **Blockchain-Secured Transactions**: Solana-based payments using USDC cryptocurrency
